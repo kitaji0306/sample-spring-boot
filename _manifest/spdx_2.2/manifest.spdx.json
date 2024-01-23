@@ -1,0 +1,2392 @@
+{
+  "files": [
+    {
+      "fileName": "./gradle.lockfile",
+      "SPDXID": "SPDXRef-File--gradle.lockfile-1780FAD7E056B707DF5A178A6A631055C097C29B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9b9f3af784ea550d26dbe60ab2ccadc37fd77091edbc96977b758013c6eb188"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1780fad7e056b707df5a178a6a631055c097c29b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./manifest.yml",
+      "SPDXID": "SPDXRef-File--manifest.yml-D72EB3607B03ADB0F64C032F7A498A71DB3126D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9576e4f183c72edc6c267aac053f5ab4632fc93130721fdbc7ef82bb70de2643"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d72eb3607b03adb0f64c032f7a498a71db3126d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-7A495F81CCD1EFFC9A4814743F1373CE721DBCAF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7814732fa4ff0a77f4b641651dcc44542c4d98247e3093c7243f3bc7a472025a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7a495f81ccd1effc9a4814743f1373ce721dbcaf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-1D2F6B53E9B70DF3E8FB6A45F954C652D6BC7D93",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa668a007ea817ea8ce46db328d22205b52cebed3f84d1a2f4bbaa398a257335"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1d2f6b53e9b70df3e8fb6a45f954c652d6bc7d93"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-F5C317CF754BBA8AD745E83649E9CE7C17E2F691",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af835f98787e9269af5a046edcb821a592fed372139df7b947b471a63cfc236b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5c317cf754bba8ad745e83649e9ce7c17e2f691"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./mvnw.cmd",
+      "SPDXID": "SPDXRef-File--mvnw.cmd-FEB577CD4CECE551BF4AA437A4C203ED8D4C28D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d960518be5071c745f65bf5b5c68c0b1142707d01aca35a66f2a337c90baae9a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "feb577cd4cece551bf4aa437a4c203ed8d4c28d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./mvnw",
+      "SPDXID": "SPDXRef-File--mvnw-2A9899DA0119D9E9060845EC10D4124C05F0B473",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0b96802c9f7404cf52e9d2a81007dcc40ba295f8a9f2e4b576f7c2789048cabf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a9899da0119d9e9060845ec10d4124c05f0b473"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pom.xml",
+      "SPDXID": "SPDXRef-File--pom.xml-3A51BBE75A4FB672B68563D525A26FF0E89A0203",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0b6edd9305c7dd3c647f390628a9db7ac69abca6ed0d1188c388d171e8f5d247"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3a51bbe75a4fb672b68563d525a26ff0e89a0203"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-0E59CCF04F8DB22729EBEF7EE39517A9E3A80C9D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f96a757581fe5292465e3f3393380bd11fd8086d450b92e7c693da6513f583fe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e59ccf04f8db22729ebef7ee39517a9e3a80c9d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/7.4.2/gc.properties",
+      "SPDXID": "SPDXRef-File--.gradle-7.4.2-gc.properties-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/7.4.2/dependencies-accessors/gc.properties",
+      "SPDXID": "SPDXRef-File--.gradle-7.4.2-dependencies-accessors-gc.properties-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/7.4.2/checksums/checksums.lock",
+      "SPDXID": "SPDXRef-File--.gradle-7.4.2-checksums-checksums.lock-16D721B4C988D5A3889661F41AE811DFCA0967EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7acf98c52e7ef60fe7803b2862153e5917669c88cc80c4c5d6184efec7194333"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "16d721b4c988d5a3889661f41ae811dfca0967ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/7.4.2/checksums/md5-checksums.bin",
+      "SPDXID": "SPDXRef-File--.gradle-7.4.2-checksums-md5-checksums.bin-ACAFD272672D049EACB0F15D314B53C242926379",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2abc410d6909ff5cc06579f936a0ae41ea2b22db5e1c86bed950796fca535c60"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acafd272672d049eacb0f15d314b53c242926379"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/7.4.2/fileChanges/last-build.bin",
+      "SPDXID": "SPDXRef-File--.gradle-7.4.2-fileChanges-last-build.bin-5BA93C9DB0CFF93F52B521D7420E43F6EDA2784F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ba93c9db0cff93f52b521d7420e43f6eda2784f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/7.4.2/checksums/sha1-checksums.bin",
+      "SPDXID": "SPDXRef-File--.gradle-7.4.2-checksums-sha1-checksums.bin-8209278010F4FCA3F6E8168095B078E9F29448F6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0861ab2526b240b132b7a86e03478b1b72c14d2a19e0c1b26e0d4a27096ca8c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8209278010f4fca3f6e8168095b078e9f29448f6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/7.4.2/executionHistory/executionHistory.lock",
+      "SPDXID": "SPDXRef-File--.gradle-7.4.2-executionHistory-executionHistory.lock-BF0B2CCEE48DC2AF46E83786BD837775341571B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f30073cee767c7218ea8efe7904402a59b8a5d8a44ee81505a2b1e877f23a47e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf0b2ccee48dc2af46e83786bd837775341571b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/7.4.2/dependencies-accessors/dependencies-accessors.lock",
+      "SPDXID": "SPDXRef-File--.gradle-7.4.2-dependencies-accessors-dependencies-accessors.lock-FF14EA2DCB90D83307743CE6729EEF227A39B7CA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4de10cec4da5a2aae8c5676fefe63f8f7ce8c1454169f51827da595dd2b6927d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff14ea2dcb90d83307743ce6729eef227a39b7ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/7.4.2/fileHashes/fileHashes.lock",
+      "SPDXID": "SPDXRef-File--.gradle-7.4.2-fileHashes-fileHashes.lock-65B321A3907377BD5F8F298B63A2C1C259EA1D26",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "365eba97f89523209312deb4a22decfecb3b51a1060066844092e5267e5e97a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "65b321a3907377bd5f8f298b63a2c1c259ea1d26"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/buildOutputCleanup/buildOutputCleanup.lock",
+      "SPDXID": "SPDXRef-File--.gradle-buildOutputCleanup-buildOutputCleanup.lock-8793809A8C6F6439F14215394C41CDC354BBA2E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab598720df34fa46eba7ea991285016b436c765d04e84d2a29fe3f84ca864529"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8793809a8c6f6439f14215394c41cdc354bba2e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/buildOutputCleanup/cache.properties",
+      "SPDXID": "SPDXRef-File--.gradle-buildOutputCleanup-cache.properties-9228CC3F6ECB5DECE2968B07936369A683ED0EFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8431ecdf7af11a4ed770cb576b3f64bc6b781c16d656298b062036b2a0051982"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9228cc3f6ecb5dece2968b07936369a683ed0efc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gradle/vcs-1/gc.properties",
+      "SPDXID": "SPDXRef-File--.gradle-vcs-1-gc.properties-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.mvn/wrapper/maven-wrapper.properties",
+      "SPDXID": "SPDXRef-File--.mvn-wrapper-maven-wrapper.properties-52823D1A1D9671B8DA745EDA4A71F61F9A753F7F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7d244c35e332edc7effeb7672dcc0e5f1c04ad56e773a7b8041c1d2c89489425"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "52823d1a1d9671b8da745eda4a71f61f9a753f7f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.mvn/wrapper/maven-wrapper.jar",
+      "SPDXID": "SPDXRef-File--.mvn-wrapper-maven-wrapper.jar-DDAC23CFD55968CE5892409AF15E6D31D0C8DBFB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c1c4ab6a1966dc63bea26e5a58b3ce106b1d418c42e7667259b6d0df260612c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ddac23cfd55968ce5892409af15e6d31d0c8dbfb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.vscode/settings.json",
+      "SPDXID": "SPDXRef-File--.vscode-settings.json-2E48EDFA331894044F29A06F073A59A60ADD0EA5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d40479e0dc243ac8c541af918f182eeebdf582b27066056aec5b4e5f4a44e40"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e48edfa331894044f29a06f073a59a60add0ea5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./bin/main/com/example/restservice/Greeting.class",
+      "SPDXID": "SPDXRef-File--bin-main-com-example-restservice-Greeting.class-043DC6592688B00B166BBCD0A108580B77F15ED8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd500b2dae14bf01eea8996f0fe4b3db9bb5c10e0eb37d7a2401cbce2fcdb7d8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "043dc6592688b00b166bbcd0a108580b77f15ed8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./bin/main/com/example/restservice/GreetingController.class",
+      "SPDXID": "SPDXRef-File--bin-main-com-example-restservice-GreetingController.class-A0AFACDEDABF2819E5C7FE3B0EE22CA6597D841E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca1a463895a334b5778ba41373d757c0eadd4fa77dd7bf9413155c68ee8e5798"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a0afacdedabf2819e5c7fe3b0ee22ca6597d841e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./bin/main/com/example/restservice/RestServiceApplication.class",
+      "SPDXID": "SPDXRef-File--bin-main-com-example-restservice-RestServiceApplication.class-AD0B9F00ACFF3B03DDAE84FCC9082A3453D87A93",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a6699407a8b9551653173c61d7b66f85209fa956afdc74cd22a5cbc1f6d54b7c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ad0b9f00acff3b03ddae84fcc9082a3453d87a93"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./bin/test/com/example/restservice/GreetingControllerTests.class",
+      "SPDXID": "SPDXRef-File--bin-test-com-example-restservice-GreetingControllerTests.class-7CF4E5C36E1B99A9EEF879CB3CF2EC8AD0341361",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "721ade6aadbdfc23fef4c4990f5dac8ee85d5c5659c888b22bbef92c460e1b9e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7cf4e5c36e1b99a9eef879cb3cf2ec8ad0341361"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-ADF800243BB3E8C301A83CBB22B8EE3C786806A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a881f4feea6dc68fbb1a18d3e08ce08204d57991c43c7e609dd443320204bf12"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "adf800243bb3e8c301a83cbb22b8ee3c786806a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-2AA1E772A1DC5A9B15D50443DB4731B25180D58E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "575098db54a998ff1c6770b352c3b16766c09848bee7555dab09afc34e8cf590"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2aa1e772a1dc5a9b15d50443db4731b25180d58e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/example/restservice/Greeting.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-example-restservice-Greeting.java-AC4D57AA4F98F039F6BB8A5D376C6FDE20838E7A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab53924d8e8a58c41a302bc1515922dc3b71cd1e4b67986ef5fcdc3a36bdbf81"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ac4d57aa4f98f039f6bb8a5d376c6fde20838e7a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/example/restservice/GreetingController.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-example-restservice-GreetingController.java-6BD1C0F98020D9D3DE9FB5814A74469252E8A4B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "466ca61800ce1c175e28dd75e4a9e7772f5f8051494f0e14ee79a0fdd1dd6816"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6bd1c0f98020d9d3de9fb5814a74469252e8a4b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/example/restservice/RestServiceApplication.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-example-restservice-RestServiceApplication.java-31F08E5FBBDDCA61B9ECE8E2A9CE15F44CADE2CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "325b1594baa8801c3eecd21b1166fa58ba45c11c521915d503b08391ea861e66"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "31f08e5fbbddca61b9ece8e2a9ce15f44cade2cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/example/restservice/GreetingControllerTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-example-restservice-GreetingControllerTests.java-D6AA10A78F7D238314D99725D273D7363CA340E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1e471d56ee96ad40ccdc24fe7663c229447cd321cda4d9fb278a9dc286dd9595"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d6aa10a78f7d238314d99725d273d7363ca340e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "net.minidev.json-smart",
+      "SPDXID": "SPDXRef-Package-C9C9C72777F561A20A5D01278000E7988C634978C3B7D6DFFE3362AF8A16F3E1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.4.8",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/net.minidev/json-smart@2.4.8"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.junit.platform.junit-platform-commons",
+      "SPDXID": "SPDXRef-Package-0CB2786A850CFFD16B2CDDC2544F61D449358F630DE830FB13AA28D45B1B17C6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.9.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.junit.platform/junit-platform-commons@1.9.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.junit.junit-bom",
+      "SPDXID": "SPDXRef-Package-2C6FCA03903D198F93B4046EB3AC3F769138B5DC11D6FB9186A5223295F9242C",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "5.9.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.junit/junit-bom@5.9.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "com.fasterxml.jackson.core.jackson-core",
+      "SPDXID": "SPDXRef-Package-F500BF23984036A6218E8F2596488857D3EC5E09CBB0F2440ED01E85360F3ADF",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.14.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.14.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "com.fasterxml.jackson.core.jackson-databind",
+      "SPDXID": "SPDXRef-Package-C1A86085E6F21B89769FDCF4FB24AFDFC72466E4FA70DCD5B34B0FEF8B3DCB9B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.14.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.14.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.assertj.assertj-core",
+      "SPDXID": "SPDXRef-Package-CEEDCD0C843DA9BFDD6369DE126ED65730223AB660F55843FCC02571F018955F",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.23.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.assertj/assertj-core@3.23.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "com.fasterxml.jackson.jackson-bom",
+      "SPDXID": "SPDXRef-Package-275A03DA8F65D30B902AE301DD0CDD82A1AA86CA1902363A50E09829F1AC3351",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.14.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/com.fasterxml.jackson/jackson-bom@2.14.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.boot.spring-boot-starter-web",
+      "SPDXID": "SPDXRef-Package-F5C77CB5058B5C045B3CE25BEA1786D8EE339D050A45CC9A12B0CD33215FACD7",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-web@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "net.bytebuddy.byte-buddy-agent",
+      "SPDXID": "SPDXRef-Package-9CDCE2EFE610C5416B03CC66C4CE9CEA56445124338CC52613D9381687CC5DC4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.12.19",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/net.bytebuddy/byte-buddy-agent@1.12.19"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "com.jayway.jsonpath.json-path",
+      "SPDXID": "SPDXRef-Package-98393BD75415CB77A15502D5E891BC1D8B50237AFABBE35C93537BEB48D9B5F1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.7.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/com.jayway.jsonpath/json-path@2.7.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.opentest4j.opentest4j",
+      "SPDXID": "SPDXRef-Package-2B8DC97169D40646AAD86B8F0402EF471C3DE1F226CF79A6B148F36AF31C667F",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.2.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.opentest4j/opentest4j@1.2.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "jakarta.activation.jakarta.activation-api",
+      "SPDXID": "SPDXRef-Package-3F80E14821F7B8789101795D9645450EE54D9006B3D7E9168EBA14C4FA23BA5F",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.1.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/jakarta.activation/jakarta.activation-api@2.1.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.boot.spring-boot-test-autoconfigure",
+      "SPDXID": "SPDXRef-Package-05173377564DD7926F9819FF57C235909F3F3A1F2159C5A061444B9257D03930",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.junit.jupiter.junit-jupiter-api",
+      "SPDXID": "SPDXRef-Package-CA82DC02BC051066288DF9749F2CC710977BB2366AFF28AF26298D97E83E8C65",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "5.9.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.junit.jupiter/junit-jupiter-api@5.9.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.apache.tomcat.embed.tomcat-embed-el",
+      "SPDXID": "SPDXRef-Package-F8E20F41729DCF8310FAEFFF599B3CBCA6DDEC13B4531BE585AD33802A47DC13",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "10.1.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@10.1.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.junit.jupiter.junit-jupiter-params",
+      "SPDXID": "SPDXRef-Package-EA228AB2D741953877EEE18C75D1FD7FD7BD2108C85721CA96D25B5ACB47C976",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "5.9.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.junit.jupiter/junit-jupiter-params@5.9.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.ow2.asm.asm",
+      "SPDXID": "SPDXRef-Package-88E38BF0197CAAF7F4CD5E8DEA3148DFD2CD3D894BEB37EE0156016A72C49F4E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "9.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.ow2.asm/asm@9.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.yaml.snakeyaml",
+      "SPDXID": "SPDXRef-Package-50A6DD2562424BAD45F4927DA670E0F7DC92BFB7C416517CC008248ABF107B20",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.33",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.yaml/snakeyaml@1.33"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.mockito.mockito-junit-jupiter",
+      "SPDXID": "SPDXRef-Package-37C6EA64E4587F6000CA3B606784CBD48E1ABB56BEA037A787B8CE4C167A71BA",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.8.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.mockito/mockito-junit-jupiter@4.8.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.junit.platform.junit-platform-engine",
+      "SPDXID": "SPDXRef-Package-5F4658EDCC5C600ECD904F44021EF6980C02782D4FA2EA19FB1E907B9492CFBD",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.9.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.junit.platform/junit-platform-engine@1.9.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.spring-core",
+      "SPDXID": "SPDXRef-Package-AE6D3090E238DCE83E0437043443BF80AB8D5C22D6AFAE5DB0ACA6622DBBF966",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework/spring-core@6.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.boot.spring-boot-starter-logging",
+      "SPDXID": "SPDXRef-Package-808E0CEFA100A4FF86D726116EF3C83DEF0CDD398502342A2365A4F5C80368E8",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-logging@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "io.micrometer.micrometer-observation",
+      "SPDXID": "SPDXRef-Package-E8EC47183334369885F3B6772377920A0460B584F977923964C556854DF3A25D",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.10.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/io.micrometer/micrometer-observation@1.10.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.spring-context",
+      "SPDXID": "SPDXRef-Package-23E18DD7B6FBB4888F2629CC73A7A5A897707EB290C401ACD2CDBB460986E594",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework/spring-context@6.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.spring-beans",
+      "SPDXID": "SPDXRef-Package-B415F090E5F3DA70C5AF3CF6948A275B4971FB79D1DFF2A3181A237F7CB6BF67",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework/spring-beans@6.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.xmlunit.xmlunit-core",
+      "SPDXID": "SPDXRef-Package-3C7C73B914C5191F4DD5F2A0B1067B987D651DD69992154D2939D474B33655D5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.9.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.xmlunit/xmlunit-core@2.9.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.spring-expression",
+      "SPDXID": "SPDXRef-Package-B71325D89C392AFE23BF3D878B7C6461727FED301596F180AA215B8CA2921B63",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework/spring-expression@6.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.spring-web",
+      "SPDXID": "SPDXRef-Package-3C9DA4CB3F6425411F83CE458B750277599674B94338DD2B7BD4AA0A39D9E293",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework/spring-web@6.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.boot.spring-boot-test",
+      "SPDXID": "SPDXRef-Package-120362D6F7EACDE6E5CD46AEC263089885EEF92DED380CD799D9B996CFB81B89",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-test@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.apache.tomcat.embed.tomcat-embed-core",
+      "SPDXID": "SPDXRef-Package-A3B550E4139E4F139C9111F7D09C3A25178856AACBC7B5E089E79372E5DB3776",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "10.1.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "com.vaadin.external.google.android-json",
+      "SPDXID": "SPDXRef-Package-56952B0E904B7F9994538AE7C68EF9FF4737C4EC579787819CA5E6A04CB652C5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.0.20131108.vaadin1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/com.vaadin.external.google/android-json@0.0.20131108.vaadin1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "jakarta.annotation.jakarta.annotation-api",
+      "SPDXID": "SPDXRef-Package-7B7459D43DE2E54F3C12A83A0C3514E42853C14FCEE90EF5E0A290D048F223DB",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.1.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/jakarta.annotation/jakarta.annotation-api@2.1.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.spring-jcl",
+      "SPDXID": "SPDXRef-Package-E9468A817F06DB6CFB4F503239F606A3F5F32F3E336A5CA43469F9287EC89ABD",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework/spring-jcl@6.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "jakarta.xml.bind.jakarta.xml.bind-api",
+      "SPDXID": "SPDXRef-Package-539E292611C8F46DB3E1DB3E162507146E03D25F72A3E47047E8F94128CAFCC6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@4.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.spring-aop",
+      "SPDXID": "SPDXRef-Package-231CF4118BA871A7E0CDDF918A43BE386E6AD2EAA6B190CA00B9E0524C2AB4CC",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework/spring-aop@6.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "com.fasterxml.jackson.datatype.jackson-datatype-jsr310",
+      "SPDXID": "SPDXRef-Package-93268E2972C09D75018D541EBDFCFB055E744B4159A88054FC119CE7F88B9D92",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.14.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.14.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.boot.spring-boot-starter",
+      "SPDXID": "SPDXRef-Package-0F5A8761DAC06B4B23B2A3C5D192E3FF0850A61FDF763A1DDD7AB557A49A38DD",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.slf4j.slf4j-api",
+      "SPDXID": "SPDXRef-Package-4CCD08422CB14F44499BE76F356495B3851FE46A4218516FB4C3D73F2259DB4B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.0.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.slf4j/slf4j-api@2.0.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "ch.qos.logback.logback-classic",
+      "SPDXID": "SPDXRef-Package-48EA2911F38150AD7E5C3B93BC57DF8ED68F781E0EA826B76F6CE00C5BEE28A8",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.4.5",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/ch.qos.logback/logback-classic@1.4.5"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.hamcrest.hamcrest",
+      "SPDXID": "SPDXRef-Package-948EC4318A8D832502CB3B63837530419BDFAF8FA78D9F6AD756EB4CC20D3981",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.hamcrest/hamcrest@2.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.objenesis.objenesis",
+      "SPDXID": "SPDXRef-Package-8CCF43C49FB16BEDC63B9E28656F7DDE7BD247831500F3DD8312C0ED7C158125",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.objenesis/objenesis@3.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "net.minidev.accessors-smart",
+      "SPDXID": "SPDXRef-Package-F0022BED0BE8A388C708B3885C5EDB5DC2FA0D5C8A45CC7BFEA44B8B877479CD",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.4.8",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/net.minidev/accessors-smart@2.4.8"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.junit.jupiter.junit-jupiter",
+      "SPDXID": "SPDXRef-Package-0606C94A9B18B808E4142E96630F4C510FCD6CC18D7F3C9A34617673A24E214D",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "5.9.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.junit.jupiter/junit-jupiter@5.9.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.apache.tomcat.embed.tomcat-embed-websocket",
+      "SPDXID": "SPDXRef-Package-ECDD57E99FE832CAB74EC371A020A48C215397B3AFF8A587289D1EDDA6290ACC",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "10.1.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@10.1.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.skyscreamer.jsonassert",
+      "SPDXID": "SPDXRef-Package-C48FD6B87E728B38B288A80D95DFFF9314FD0B3B5D38238B7FFFAAD1D5C72DD0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.5.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.skyscreamer/jsonassert@1.5.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "io.micrometer.micrometer-commons",
+      "SPDXID": "SPDXRef-Package-2FCA5BFFC6CF7BDD9975B6260926D2AEDB05481A55235E85BED9F2429F888E91",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.10.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/io.micrometer/micrometer-commons@1.10.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.mockito.mockito-core",
+      "SPDXID": "SPDXRef-Package-595F46CFDF290311D30A6A6008D145928E3540D2D9C7446D7761E7EAAEC0CE5E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.8.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.mockito/mockito-core@4.8.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.boot.spring-boot-autoconfigure",
+      "SPDXID": "SPDXRef-Package-43BB38BCB1CCB2DA2CDC98D65FACF5838592FA63DCD731ADFA6B8A75AC989488",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-autoconfigure@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.spring-test",
+      "SPDXID": "SPDXRef-Package-C633BAB41C6E8435EC3487CC6507367F14A6B7D8EF82DD9EA50CEA3745C3F3BB",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework/spring-test@6.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.boot.spring-boot-starter-test",
+      "SPDXID": "SPDXRef-Package-965B07B4F9148155B77858CEAF28A96C1BC4495ABEF3FEEDB4C9AB63347E8101",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-test@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "com.fasterxml.jackson.core.jackson-annotations",
+      "SPDXID": "SPDXRef-Package-A8FA99B3CD393657CDD889D4401C1EDC7A0680508A951050E99CCE3D0EE0C2EB",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.14.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.14.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "com.fasterxml.jackson.module.jackson-module-parameter-names",
+      "SPDXID": "SPDXRef-Package-2E9F505257F9A0FB627CDD5819672DDC8738B193F0144DCF106C8E9CBD622745",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.14.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.14.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.spring-webmvc",
+      "SPDXID": "SPDXRef-Package-157BBBAB6E7B751BE05B10D5984AA5180FEF556E5EC45484DA83313055DAD2EA",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework/spring-webmvc@6.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.boot.spring-boot",
+      "SPDXID": "SPDXRef-Package-274BFCAE48C5CBE629A58BF2B54CDB6C226394336F1DCBE958E9F91A664DBDA9",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.apache.logging.log4j.log4j-api",
+      "SPDXID": "SPDXRef-Package-1D30F36F591D01DB0C10C99C98FAA98FE954A6C708852D7D07F72B0427675208",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.19.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.apache.logging.log4j/log4j-api@2.19.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.junit.jupiter.junit-jupiter-engine",
+      "SPDXID": "SPDXRef-Package-10B826035F8424CCBB58426CF84ACADE6C038E4F8D52213458015588174DECDD",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "5.9.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.junit.jupiter/junit-jupiter-engine@5.9.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.apiguardian.apiguardian-api",
+      "SPDXID": "SPDXRef-Package-C397F046FB3580801E7808DC5653D386A486A5D9075DEEE6BEEC867DA93AED2E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.1.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.apiguardian/apiguardian-api@1.1.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.apache.logging.log4j.log4j-to-slf4j",
+      "SPDXID": "SPDXRef-Package-CCF6E6FED03F13B118598DCDF142E68B2F7FA68E8287B7B3FB7CB4DAC7022A01",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.19.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.apache.logging.log4j/log4j-to-slf4j@2.19.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.boot.spring-boot-starter-json",
+      "SPDXID": "SPDXRef-Package-5020C50163A9B923C6178DA049A340FBD7DCB54B2A71CA5F6D69AED14D380EB1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-json@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "ch.qos.logback.logback-core",
+      "SPDXID": "SPDXRef-Package-5BA59EF8C00777A4CED2E5150A5C27C7D577075548AB5C8472D12624C303BBF2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.4.5",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/ch.qos.logback/logback-core@1.4.5"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.slf4j.jul-to-slf4j",
+      "SPDXID": "SPDXRef-Package-7D31712CD1C82132D90713E901EB1020B4FCDE8D36E202A6373669466A19219C",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.0.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.slf4j/jul-to-slf4j@2.0.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "com.fasterxml.jackson.datatype.jackson-datatype-jdk8",
+      "SPDXID": "SPDXRef-Package-637F2737496F3AB7B49D1464C02FE0EF2D97C82DF8F1228C43FEAE9B2CDFD772",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.14.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.14.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "org.springframework.boot.spring-boot-starter-tomcat",
+      "SPDXID": "SPDXRef-Package-82DFDF519B50773167883A85E56693D48C08A37A2792A0C39CA08D9CC94BBCE2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-tomcat@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "net.bytebuddy.byte-buddy",
+      "SPDXID": "SPDXRef-Package-99CAECBA95E5624BA8C7934AC5FD7A89A840DEAD1456DD51226BFDA4B3BB4A48",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.12.19",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:maven/net.bytebuddy/byte-buddy@1.12.19"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "rest-service",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "d871e88b288b4090a2b50b371c888d756ff69bec"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.0.1-SNAPSHOT",
+      "supplier": "Organization: gradle",
+      "hasFiles": [
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-ADF800243BB3E8C301A83CBB22B8EE3C786806A6",
+        "SPDXRef-File--.gradle-7.4.2-gc.properties-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--manifest.yml-D72EB3607B03ADB0F64C032F7A498A71DB3126D8",
+        "SPDXRef-File--.gradle-7.4.2-checksums-md5-checksums.bin-ACAFD272672D049EACB0F15D314B53C242926379",
+        "SPDXRef-File--.gradle-7.4.2-dependencies-accessors-gc.properties-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--build.gradle-7A495F81CCD1EFFC9A4814743F1373CE721DBCAF",
+        "SPDXRef-File--src-main-java-com-example-restservice-Greeting.java-AC4D57AA4F98F039F6BB8A5D376C6FDE20838E7A",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-2AA1E772A1DC5A9B15D50443DB4731B25180D58E",
+        "SPDXRef-File--bin-main-com-example-restservice-RestServiceApplication.class-AD0B9F00ACFF3B03DDAE84FCC9082A3453D87A93",
+        "SPDXRef-File--.mvn-wrapper-maven-wrapper.properties-52823D1A1D9671B8DA745EDA4A71F61F9A753F7F",
+        "SPDXRef-File--pom.xml-3A51BBE75A4FB672B68563D525A26FF0E89A0203",
+        "SPDXRef-File--.gradle-7.4.2-executionHistory-executionHistory.lock-BF0B2CCEE48DC2AF46E83786BD837775341571B3",
+        "SPDXRef-File--.gradle-7.4.2-checksums-sha1-checksums.bin-8209278010F4FCA3F6E8168095B078E9F29448F6",
+        "SPDXRef-File--mvnw.cmd-FEB577CD4CECE551BF4AA437A4C203ED8D4C28D1",
+        "SPDXRef-File--src-main-java-com-example-restservice-RestServiceApplication.java-31F08E5FBBDDCA61B9ECE8E2A9CE15F44CADE2CB",
+        "SPDXRef-File--bin-main-com-example-restservice-GreetingController.class-A0AFACDEDABF2819E5C7FE3B0EE22CA6597D841E",
+        "SPDXRef-File--bin-main-com-example-restservice-Greeting.class-043DC6592688B00B166BBCD0A108580B77F15ED8",
+        "SPDXRef-File--.mvn-wrapper-maven-wrapper.jar-DDAC23CFD55968CE5892409AF15E6D31D0C8DBFB",
+        "SPDXRef-File--.gradle-buildOutputCleanup-buildOutputCleanup.lock-8793809A8C6F6439F14215394C41CDC354BBA2E9",
+        "SPDXRef-File--gradlew.bat-F5C317CF754BBA8AD745E83649E9CE7C17E2F691",
+        "SPDXRef-File--src-main-java-com-example-restservice-GreetingController.java-6BD1C0F98020D9D3DE9FB5814A74469252E8A4B4",
+        "SPDXRef-File--.vscode-settings.json-2E48EDFA331894044F29A06F073A59A60ADD0EA5",
+        "SPDXRef-File--.gradle-7.4.2-fileHashes-fileHashes.lock-65B321A3907377BD5F8F298B63A2C1C259EA1D26",
+        "SPDXRef-File--gradle.lockfile-1780FAD7E056B707DF5A178A6A631055C097C29B",
+        "SPDXRef-File--.gradle-7.4.2-checksums-checksums.lock-16D721B4C988D5A3889661F41AE811DFCA0967EA",
+        "SPDXRef-File--settings.gradle-1D2F6B53E9B70DF3E8FB6A45F954C652D6BC7D93",
+        "SPDXRef-File--mvnw-2A9899DA0119D9E9060845EC10D4124C05F0B473",
+        "SPDXRef-File--src-test-java-com-example-restservice-GreetingControllerTests.java-D6AA10A78F7D238314D99725D273D7363CA340E6",
+        "SPDXRef-File--bin-test-com-example-restservice-GreetingControllerTests.class-7CF4E5C36E1B99A9EEF879CB3CF2EC8AD0341361",
+        "SPDXRef-File--.gradle-vcs-1-gc.properties-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--.gradle-buildOutputCleanup-cache.properties-9228CC3F6ECB5DECE2968B07936369A683ED0EFC",
+        "SPDXRef-File--.gradle-7.4.2-dependencies-accessors-dependencies-accessors.lock-FF14EA2DCB90D83307743CE6729EEF227A39B7CA",
+        "SPDXRef-File--.gradle-7.4.2-fileChanges-last-build.bin-5BA93C9DB0CFF93F52B521D7420E43F6EDA2784F",
+        "SPDXRef-File--gradlew-0E59CCF04F8DB22729EBEF7EE39517A9E3A80C9D"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CCF6E6FED03F13B118598DCDF142E68B2F7FA68E8287B7B3FB7CB4DAC7022A01",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C397F046FB3580801E7808DC5653D386A486A5D9075DEEE6BEEC867DA93AED2E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-10B826035F8424CCBB58426CF84ACADE6C038E4F8D52213458015588174DECDD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1D30F36F591D01DB0C10C99C98FAA98FE954A6C708852D7D07F72B0427675208",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-274BFCAE48C5CBE629A58BF2B54CDB6C226394336F1DCBE958E9F91A664DBDA9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-157BBBAB6E7B751BE05B10D5984AA5180FEF556E5EC45484DA83313055DAD2EA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2E9F505257F9A0FB627CDD5819672DDC8738B193F0144DCF106C8E9CBD622745",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A8FA99B3CD393657CDD889D4401C1EDC7A0680508A951050E99CCE3D0EE0C2EB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F0022BED0BE8A388C708B3885C5EDB5DC2FA0D5C8A45CC7BFEA44B8B877479CD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8CCF43C49FB16BEDC63B9E28656F7DDE7BD247831500F3DD8312C0ED7C158125",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-948EC4318A8D832502CB3B63837530419BDFAF8FA78D9F6AD756EB4CC20D3981",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-48EA2911F38150AD7E5C3B93BC57DF8ED68F781E0EA826B76F6CE00C5BEE28A8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4CCD08422CB14F44499BE76F356495B3851FE46A4218516FB4C3D73F2259DB4B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0F5A8761DAC06B4B23B2A3C5D192E3FF0850A61FDF763A1DDD7AB557A49A38DD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-93268E2972C09D75018D541EBDFCFB055E744B4159A88054FC119CE7F88B9D92",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-231CF4118BA871A7E0CDDF918A43BE386E6AD2EAA6B190CA00B9E0524C2AB4CC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-965B07B4F9148155B77858CEAF28A96C1BC4495ABEF3FEEDB4C9AB63347E8101",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C633BAB41C6E8435EC3487CC6507367F14A6B7D8EF82DD9EA50CEA3745C3F3BB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-43BB38BCB1CCB2DA2CDC98D65FACF5838592FA63DCD731ADFA6B8A75AC989488",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-595F46CFDF290311D30A6A6008D145928E3540D2D9C7446D7761E7EAAEC0CE5E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2FCA5BFFC6CF7BDD9975B6260926D2AEDB05481A55235E85BED9F2429F888E91",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C48FD6B87E728B38B288A80D95DFFF9314FD0B3B5D38238B7FFFAAD1D5C72DD0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ECDD57E99FE832CAB74EC371A020A48C215397B3AFF8A587289D1EDDA6290ACC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0606C94A9B18B808E4142E96630F4C510FCD6CC18D7F3C9A34617673A24E214D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-99CAECBA95E5624BA8C7934AC5FD7A89A840DEAD1456DD51226BFDA4B3BB4A48",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-82DFDF519B50773167883A85E56693D48C08A37A2792A0C39CA08D9CC94BBCE2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-637F2737496F3AB7B49D1464C02FE0EF2D97C82DF8F1228C43FEAE9B2CDFD772",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7D31712CD1C82132D90713E901EB1020B4FCDE8D36E202A6373669466A19219C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5BA59EF8C00777A4CED2E5150A5C27C7D577075548AB5C8472D12624C303BBF2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B71325D89C392AFE23BF3D878B7C6461727FED301596F180AA215B8CA2921B63",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B415F090E5F3DA70C5AF3CF6948A275B4971FB79D1DFF2A3181A237F7CB6BF67",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-808E0CEFA100A4FF86D726116EF3C83DEF0CDD398502342A2365A4F5C80368E8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-539E292611C8F46DB3E1DB3E162507146E03D25F72A3E47047E8F94128CAFCC6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E9468A817F06DB6CFB4F503239F606A3F5F32F3E336A5CA43469F9287EC89ABD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7B7459D43DE2E54F3C12A83A0C3514E42853C14FCEE90EF5E0A290D048F223DB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-56952B0E904B7F9994538AE7C68EF9FF4737C4EC579787819CA5E6A04CB652C5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A3B550E4139E4F139C9111F7D09C3A25178856AACBC7B5E089E79372E5DB3776",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-120362D6F7EACDE6E5CD46AEC263089885EEF92DED380CD799D9B996CFB81B89",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3C9DA4CB3F6425411F83CE458B750277599674B94338DD2B7BD4AA0A39D9E293",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-23E18DD7B6FBB4888F2629CC73A7A5A897707EB290C401ACD2CDBB460986E594",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3C7C73B914C5191F4DD5F2A0B1067B987D651DD69992154D2939D474B33655D5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E8EC47183334369885F3B6772377920A0460B584F977923964C556854DF3A25D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AE6D3090E238DCE83E0437043443BF80AB8D5C22D6AFAE5DB0ACA6622DBBF966",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5F4658EDCC5C600ECD904F44021EF6980C02782D4FA2EA19FB1E907B9492CFBD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-37C6EA64E4587F6000CA3B606784CBD48E1ABB56BEA037A787B8CE4C167A71BA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-50A6DD2562424BAD45F4927DA670E0F7DC92BFB7C416517CC008248ABF107B20",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-88E38BF0197CAAF7F4CD5E8DEA3148DFD2CD3D894BEB37EE0156016A72C49F4E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EA228AB2D741953877EEE18C75D1FD7FD7BD2108C85721CA96D25B5ACB47C976",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CA82DC02BC051066288DF9749F2CC710977BB2366AFF28AF26298D97E83E8C65",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2B8DC97169D40646AAD86B8F0402EF471C3DE1F226CF79A6B148F36AF31C667F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9CDCE2EFE610C5416B03CC66C4CE9CEA56445124338CC52613D9381687CC5DC4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F5C77CB5058B5C045B3CE25BEA1786D8EE339D050A45CC9A12B0CD33215FACD7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CEEDCD0C843DA9BFDD6369DE126ED65730223AB660F55843FCC02571F018955F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F500BF23984036A6218E8F2596488857D3EC5E09CBB0F2440ED01E85360F3ADF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2C6FCA03903D198F93B4046EB3AC3F769138B5DC11D6FB9186A5223295F9242C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C9C9C72777F561A20A5D01278000E7988C634978C3B7D6DFFE3362AF8A16F3E1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5020C50163A9B923C6178DA049A340FBD7DCB54B2A71CA5F6D69AED14D380EB1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F8E20F41729DCF8310FAEFFF599B3CBCA6DDEC13B4531BE585AD33802A47DC13",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-05173377564DD7926F9819FF57C235909F3F3A1F2159C5A061444B9257D03930",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3F80E14821F7B8789101795D9645450EE54D9006B3D7E9168EBA14C4FA23BA5F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-98393BD75415CB77A15502D5E891BC1D8B50237AFABBE35C93537BEB48D9B5F1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-275A03DA8F65D30B902AE301DD0CDD82A1AA86CA1902363A50E09829F1AC3351",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C1A86085E6F21B89769FDCF4FB24AFDFC72466E4FA70DCD5B34B0FEF8B3DCB9B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0CB2786A850CFFD16B2CDDC2544F61D449358F630DE830FB13AA28D45B1B17C6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "rest-service 0.0.1-SNAPSHOT",
+  "documentNamespace": "https://example.com/rest-service/0.0.1-SNAPSHOT/mWB3w7jP1UacSWiafncOIA",
+  "creationInfo": {
+    "created": "2023-03-24T02:26:02Z",
+    "creators": [
+      "Organization: gradle",
+      "Tool: Microsoft.SBOMTool-0.3.3"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}
