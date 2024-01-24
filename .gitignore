@@ -1,4 +1,5 @@
-/build/*
-/.gradle/*
-/.mvn/*
-/.vscode/*
+/bin/
+/build/
+/.gradle/
+/.mvn/
+/.vscode/
